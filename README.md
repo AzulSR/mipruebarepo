@@ -1,2 +1,2 @@
 # mipruebarepo
- es una prueba
+ es una prueba de pruebas 
